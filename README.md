@@ -3,6 +3,8 @@
 Telegram Bot виконує пошук за вказаним ключовим словом та виконує аналіз настроїв твітів. 
 
 Для оцінки настрою використовується Google’s score range:  
+![alt](https://raw.githubusercontent.com/kajojify/Lab3_Web_Analitika/master/photo_2019-06-06_09-23-00%20(2).jpg)
+
 
 Картинка
 Джерело:https://cloud.google.com/natural-language/
@@ -49,3 +51,4 @@ python3 third.py
 
 Результат роботи:
 
+![alt](https://raw.githubusercontent.com/kajojify/Lab3_Web_Analitika/master/photo_2019-06-06_09-23-00.jpg)
